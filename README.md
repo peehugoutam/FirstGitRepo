@@ -6,14 +6,17 @@ Git is a DevOps tool used for source code management. It is a free and open-sour
 Commands in Git
 Create Repositories
 git init
+
 Make Changes
 add
 commit
 status
+
 Parallel Development
 branch
 merge
 rebase
+
 Sync Repositories
 push
 pull
